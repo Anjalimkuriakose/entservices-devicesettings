@@ -1,0 +1,6 @@
+compositeinput:
+  command: connection_status
+  description: Sends the connection status of a composite input port
+  params:
+    port: 0
+    connected: true

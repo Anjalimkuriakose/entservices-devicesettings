@@ -1,0 +1,6 @@
+compositeinput:
+  command: signal_status
+  description: Sends a no-signal status for a composite input port
+  params:
+    port: 0
+    state: NO_SIGNAL

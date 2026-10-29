@@ -1,0 +1,9 @@
+compositeinput:
+  command: video_mode_update
+  description: Sends a video mode update (NTSC 480i) for a composite input port
+  params:
+    port: 0
+    width: 720
+    height: 480
+    interlaced: true
+    frameRate: 59.94

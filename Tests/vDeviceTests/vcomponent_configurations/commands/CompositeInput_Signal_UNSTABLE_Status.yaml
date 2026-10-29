@@ -1,0 +1,6 @@
+compositeinput:
+  command: signal_status
+  description: Sends an unstable signal status for a composite input port
+  params:
+    port: 0
+    state: UNSTABLE
